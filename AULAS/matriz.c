@@ -8,7 +8,7 @@ int main() {
         {7, 8, 9}
 };
 
-printf("\n%d\n", tabela[0][0]);
+    printf("\n%d\n", tabela[0][0]); //imprime o numero 1
 
-
+    return 0;
 }
