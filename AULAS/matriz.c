@@ -11,4 +11,4 @@ int main() {
     printf("\n%d\n", tabela[0][0]); //imprime o numero 1
 
     return 0;
-}
+} 
